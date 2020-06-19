@@ -1,0 +1,9 @@
+# Gradle
+/build/
+.gradle
+
+# IntelliJ
+.idea
+
+# App
+/log/
